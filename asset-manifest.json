@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ravi-kumar.github.io/static/css/main.68a6b7ac.css",
+    "main.js": "/ravi-kumar.github.io/static/js/main.8991ae9f.js",
+    "static/js/453.fbe13469.chunk.js": "/ravi-kumar.github.io/static/js/453.fbe13469.chunk.js",
+    "index.html": "/ravi-kumar.github.io/index.html",
+    "main.68a6b7ac.css.map": "/ravi-kumar.github.io/static/css/main.68a6b7ac.css.map",
+    "main.8991ae9f.js.map": "/ravi-kumar.github.io/static/js/main.8991ae9f.js.map",
+    "453.fbe13469.chunk.js.map": "/ravi-kumar.github.io/static/js/453.fbe13469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68a6b7ac.css",
+    "static/js/main.8991ae9f.js"
+  ]
+}
