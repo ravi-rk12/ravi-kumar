@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { FaLinkedin, FaTwitter, FaInstagram, FaGithub, FaMailBulk, FaAddressBook, FaSms, FaEnvelope, FaMobileAlt, FaMobile, FaTelegram } from 'react-icons/fa';
+import { FaLinkedin, FaTwitter, FaInstagram, FaGithub, FaEnvelope, FaMobileAlt} from 'react-icons/fa';
 
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState('home');
